@@ -26,7 +26,7 @@ export class HomePage {
 
   //Todo estaba dentro de ads
   //La imagen la encontré dentro de inmuebles (mi arreglo) en pictures[0].url
-  //EL precio estaba en price.formattedAmount, price.currency
+  //El precio estaba en price.formattedAmount, price.currency
   //La ubicación estaba en geo.displayName (colonia), geo.name
   //No tenía título
 
